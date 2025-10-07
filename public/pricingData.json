@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 20,
+    "billing": "per month",
+    "features": [
+      "Access to gym floor",
+      "Free locker",
+      "1 personal trainer session",
+      "Access during working hours (8am–8pm)",
+      "Free water refill station",
+      "Discount on gym merchandise (5%)"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 35,
+    "billing": "per month",
+    "features": [
+      "24/7 gym access",
+      "Free locker + towel service",
+      "4 personal trainer sessions",
+      "Access to all group classes",
+      "Nutrition consultation once a month",
+      "Free sauna access (2 times per month)",
+      "Discount on gym merchandise (10%)",
+      "Guest pass (1 per month)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 50,
+    "billing": "per month",
+    "features": [
+      "24/7 gym access",
+      "Unlimited personal trainer sessions",
+      "Priority support and bookings",
+      "Free locker, towel, and laundry service",
+      "Unlimited group + premium classes",
+      "Monthly body assessment",
+      "Unlimited sauna and spa access",
+      "Exclusive members lounge",
+      "Free supplements starter pack",
+      "Discount on gym merchandise (20%)",
+      "Guest passes (3 per month)"
+    ]
+  }
+]
