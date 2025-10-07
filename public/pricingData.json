@@ -1,9 +1,11 @@
+
 [
   {
     "id": 1,
     "name": "Basic",
     "price": 20,
     "billing": "per month",
+    "description": "Perfect for beginners who want essential access to the gym and basic support.",
     "features": [
       "Access to gym floor",
       "Free locker",
@@ -18,6 +20,8 @@
     "name": "Standard",
     "price": 35,
     "billing": "per month",
+    "popular" : "true",
+    "description": "Ideal for regular gym-goers who want full access and extra benefits.",
     "features": [
       "24/7 gym access",
       "Free locker + towel service",
@@ -34,6 +38,7 @@
     "name": "Premium",
     "price": 50,
     "billing": "per month",
+    "description": "The best option for fitness enthusiasts who want all-inclusive perks and priority services.",
     "features": [
       "24/7 gym access",
       "Unlimited personal trainer sessions",
